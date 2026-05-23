@@ -1,0 +1,44 @@
+{
+  "name": "awwwards-skills",
+  "version": "1.0.0",
+  "description": "AI Agent SKILL.md files for building Awwwards-quality websites — layout, hero, animation, and copywriting.",
+  "keywords": [
+    "awwwards",
+    "ai-agent",
+    "skill",
+    "web-design",
+    "gsap",
+    "lenis",
+    "barba",
+    "creative-direction",
+    "claude",
+    "cursor",
+    "windsurf",
+    "copywriting",
+    "animation",
+    "hero-section",
+    "layout"
+  ],
+  "author": "Your Name <you@yourdomain.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/awwwards-skills.git"
+  },
+  "homepage": "https://github.com/yourusername/awwwards-skills#readme",
+  "bin": {
+    "awwwards-skills": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  }
+}
