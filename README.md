@@ -121,4 +121,4 @@ cd awwwards-skills
 
 ## License
 
-MIT © [Your Name]
+MIT © aditraanggra
